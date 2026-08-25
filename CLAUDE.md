@@ -10,6 +10,10 @@ current focus on contemporary authors writing on **Islamic topics**
 repository is otherwise minimal at this stage — the main asset so far is
 the translation skill described below.
 
+`AGENTS.md` mirrors the essentials of this file in a tool-agnostic form,
+for any AI assistant other than Claude Code that works in this repo — keep
+the two in sync when the rules below change.
+
 ## Book translation skill
 
 `.claude/skills/book-translation/SKILL.md` encodes the house rules for this
